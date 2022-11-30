@@ -1,10 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Delfosti Prueba Tecnica | Vue 3 | Composables | Typescript | Firebase | DaisyUi | Tailwind
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
+Proyecto hecho con Nuxt 3
 ## Setup
 
-Make sure to install the dependencies:
 
 ```bash
 # yarn
@@ -17,26 +15,9 @@ npm install
 pnpm install --shamefully-hoist
 ```
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+![Firebase Integration](https://dc619.4shared.com/img/YaCcKR63ge/s23/184c6306c08/FireShot_Capture_039_-_ONG_And)
+### Firebase Realtime Integration
+![Firebase Integration](https://dc619.4shared.com/img/uZC0Wl36ku/s23/184c6306438/FireShot_Capture_041_-_Delfost)
+### Adding New product
+![Firebase Integration](https://dc728.4shared.com/img/dZYCqrXsjq/s23/184c63073d8/FireShot_Capture_038_-_Delfost)
+### List Products
