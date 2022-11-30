@@ -32,11 +32,11 @@ const saveForm = () => {
             </div>
             <h2 class="text-2xl mb-6">Agregar Producto</h2>
             <input v-model="obj.name" type="text" placeholder="Producto"
-                class="input input-bordered input-accent w-full max-w-xs mb-5" />
+                class="input input-bordered input-accent w-full max-w-xs mb-5"  required/>
             <input v-model="obj.image" type="text" placeholder="Image"
-                class="input input-bordered input-accent w-full max-w-xs mb-5" />
+                class="input input-bordered input-accent w-full max-w-xs mb-5"  required/>
             <input v-model="obj.price" type="text" placeholder="Price"
-                class="input input-bordered input-accent w-full max-w-xs mb-5" />
+                class="input input-bordered input-accent w-full max-w-xs mb-5" required />
             <button type="submit" class="btn btn-accent">Agregar</button>
         </form>
     </div>
