@@ -1,6 +1,7 @@
 # Delfosti Prueba Tecnica | Vue 3 | Composables | Typescript | Firebase | DaisyUi | Tailwind
 
-Proyecto hecho con Nuxt 3
+### Proyecto hecho con Nuxt 3 
+### Link https://delfosti-prueba-tecnica-lp5821vfv-idifusal.vercel.app/
 ## Setup
 
 
